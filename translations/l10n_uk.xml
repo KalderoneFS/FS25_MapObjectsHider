@@ -12,9 +12,9 @@
         <text name="moh_DELETE"							text="Видалити (%s)"/>
         <text name="moh_dialog_title"					text="Приховувати об'єкти на мапі"/>
         <text name="moh_ask_hide"					    text="Ви впевнені, що хочете приховати %s?"/>
-        <text name="moh_ask_decollide"                  text="Are you sure you want to decollide %s?"/>
+        <text name="moh_ask_decollide"                  text="Ви впевнені, що хочете видалити зіткнення %s?"/>
         <text name="moh_delete_split_shape_dialog_text"	text="Ви дійсно хочете видалити це дерево?"/>
-        <text name="moh_delete_dialog_text"             text="do you really want to delete %s?"/>
+        <text name="moh_delete_dialog_text"             text="Ви дійсно хочете видалити %s?"/>
         <text name="moh_sell_dialog_text"				text="Ви впевнені, що хочете продати %s?" />
         <text name="moh_gui_title"						text="Приховані об'єкти" />
         <text name="moh_gui_loading_text"				text="Завантаження прихованих об'єктів..." />
